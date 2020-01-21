@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Md-Ferdous</title>
+    <title>Authors | Md. Ferdous</title>
     <link>https://Md-Ferdous.github.io/authors/</link>
       <atom:link href="https://Md-Ferdous.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Md. Ferdous</copyright>
     <image>
       <url>https://Md-Ferdous.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -17,8 +17,11 @@
       <link>https://Md-Ferdous.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://Md-Ferdous.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;Md. Ferdous is studying M.Sc(Engg) in Computer Science and Engineering at Khulna University of Engineering and Technology(KUET)&lt;/p&gt;
+&lt;p&gt;Md. Ferdous was Lecturer in Computer Science and Engineering department at Institute of Science, Trade and Technology (ISTT).&lt;/p&gt;
+&lt;p&gt;His research interests include Deep Learning, Computer Vision, Natural Language Processing, Robotics and Data Science.&lt;/p&gt;
+&lt;p&gt;Md Ferdous conducted several workshops and seminars includes: Workshop on Latex, Week-long training course on Python (Beginning to Advance including Machine Learning).&lt;/p&gt;
+&lt;p&gt;Md Ferdous was born in Pirojpur, Bangladesh in 1995. He passed S.S.C from Baldia Secondary School in 2011 and H.S.C from  Shahid Smrity Collage in 2013. He received the B.Sc (Engineering) degree in Computer Science and Engineering from Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh.&lt;/p&gt;
 </description>
     </item>
     
